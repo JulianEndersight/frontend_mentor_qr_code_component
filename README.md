@@ -1,1 +1,0 @@
-# frontend_mentor_qr_code_component
